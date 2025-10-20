@@ -1,5 +1,6 @@
 boot/*
 iso/boot/*.elf
+bochslog.txt
 *.old
 *.elf
 *.o
