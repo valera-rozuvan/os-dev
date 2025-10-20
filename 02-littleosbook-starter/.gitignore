@@ -1,0 +1,6 @@
+boot/*
+iso/boot/*.elf
+*.old
+*.elf
+*.o
+*.iso
